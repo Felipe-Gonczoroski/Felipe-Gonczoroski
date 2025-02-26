@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Felipe-Gonczoroski/Felipe-Gonczoroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Felipe Gonczoroski, a front-end developer in training!  
+I'm learning JavaScript, HTML, CSS, and React.js to create amazing user experiences.
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m always learning and growing, not only as a developer but also as a person.
+- 💻 Focused on mastering and perfecting front-end technologies.
+- 🎨 Passionate about creating intuitive and beautiful web designs.
+- 🥋 I enjoy practicing Karate, which helps me stay disciplined and focused.
+- 🎭 I’m a creative soul at heart, exploring the world through music, poetry, and introspective reflections.
+
+### 🔧 Technologies I’m Learning
+
+- JavaScript
+- HTML
+- CSS
+- React.js
