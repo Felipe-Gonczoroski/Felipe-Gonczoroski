@@ -1,7 +1,7 @@
 # Hi there! 👋
 
-I'm Felipe Gonczoroski, a front-end developer in training!  
-I build responsive and accessible interfaces using HTML, CSS, JavaScript, and React.js — always aiming to create meaningful user experiences.
+I'm Felipe Gonczoroski, a front-end developer in training.
+Passionate about creating meaningful digital experiences that inspire and positively impact people and the world.
 
 ### 🚀 About Me
 
